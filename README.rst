@@ -1,3 +1,5 @@
-This is a working paper that optimizes skateboard geometries with direct collocation for the ollie movement.
+=====
+Ollie
+=====
 
-Contents of this repository are licensed as CC-BY 4.0, see the LICENSE file.
+A Python package for skateboard modeling.
